@@ -1,1 +1,16 @@
-{"name":"tooltip-bug-demo","private":false,"dependencies":{"@emotion/react":"latest","@emotion/styled":"latest","@mui/material":"latest","react":"latest","react-dom":"latest"},"devDependencies":{"@vitejs/plugin-react":"latest","vite":"latest"},"scripts":{"dev":"vite","build":"vite build"}}
+{
+  "name": "tooltip-bug-demo",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "@mui/material": "^9.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
