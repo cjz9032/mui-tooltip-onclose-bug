@@ -1,0 +1,1 @@
+{"name":"tooltip-bug-demo","private":false,"dependencies":{"@emotion/react":"latest","@emotion/styled":"latest","@mui/material":"latest","react":"latest","react-dom":"latest"},"devDependencies":{"@vitejs/plugin-react":"latest","vite":"latest"},"scripts":{"dev":"vite","build":"vite build"}}
